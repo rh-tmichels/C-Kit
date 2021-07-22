@@ -1,4 +1,4 @@
-# Project C-Kit
+# C-Kit
 
 ## What it will be
 The "C-Kit" is a small box, that contains several devices to establish a net for communication in disaster areas. It works independently from external power. It is a small "Communication-Kit".
