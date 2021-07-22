@@ -17,7 +17,7 @@ As hardware there shall be a SoC system like a Raspberry Pi. It may be any other
 - robust, so it may be deployed from an airplane and falls back to earth with a little parachute.
 - CHEAP
 - Easy to use. People being able to read, shall be able to make it work.
-- Resillient against environmental conditions
+- Resillient against environmental conditions, like rain, snow, strong sunlight, small particles (e.g. sand, dust, leaves)
 - Easy to fix on roofs, walls, trees, masts, ..
 
 ## Everybody is welcome to contribute
