@@ -1,7 +1,7 @@
 # C-Kit
 
 ## What it will be
-The "C-Kit" is a small box, that contains several devices to establish a net for communication in disaster areas. It works independently from external power. It is a small "Communication-Kit".
+The "C-Kit" is a small box, that contains several devices to establish a net for communication in disaster areas. It works independently from external power. It is a small, cheap and easy to use "**C**ommunication-**Kit**".
 
 It has some accumulators on board to get started immediately. As the charge of these accumulators will not last for so long, there will be some photovoltaic panels inside the box, as well as a wind turbine for recharging the accumulators to be able to provide service during the night.
 
