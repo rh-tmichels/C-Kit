@@ -1,4 +1,4 @@
-# C-Kit  Communication box for disaster areas
+# C-Kit:  Communication box for disaster areas
 
 ## What it will be
 The "C-Kit" is a small box, that contains several devices to establish a net for communication in disaster areas. It works independently from external power. It is a small, cheap and easy to use "**C**ommunication-**Kit**".
