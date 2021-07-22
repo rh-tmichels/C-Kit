@@ -23,3 +23,9 @@ As hardware there shall be a SoC system like a Raspberry Pi. It may be any other
 This is the "first idea". It will be elaborated over time. You are heartily welcome to contribute, as HW-specialist, as developer, as integrator, as rescue worker to provide requirements .... any one who has any idea or feedback.
 
 A disaster could happen tomorrow in your street. So this is a small contribution to be prepared.
+
+
+# The drawings of the C-Kit box
+
+All drawings are intended as a starting point of a discussion; in the sense of "a picture tells more than 1,000 words"
+If you have a better idea or enhanced design, please feel free to change it.
