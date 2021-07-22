@@ -3,9 +3,10 @@
 ## What it will be
 The "C-Kit" is a small box, that contains several devices to establish a net for communication in disaster areas. It works independently from external power. It is a small, cheap and easy to use "**C**ommunication-**Kit**".
 
-It has some accumulators on board to get started immediately. As the charge of these accumulators will not last for so long, there will be some photovoltaic panels inside the box, as well as a wind turbine for recharging the accumulators to be able to provide service during the night.
+It has some accumulators on board to get started immediately. As the charge of these accumulators will not last for too long, there will be some photovoltaic panels inside the box, as well as a wind turbine for recharging the accumulators to be able to provide service during the night.
 
 Once powered-up it will provide a wi-fi-network with a radius of about 100 m. I will look for a relay station to get in touch with. Once they are coupled, they are looking for other C-Kits. From outside of the disaster-area there will an other kind of C-Kit, which are connected to the internet where possible and available. From there the internet will be connected to the C-Kits on the edge.
+An enhancement may be a different antenna for bigger connection area.
 
 Once some C-Kits got connected, they will provide a small website, where people can connect with their mobiles and send some basic information to the rescue workers. For example: How many persons are alive, how many injured people are there, how serious are their injuries and things like that.
 
