@@ -15,7 +15,7 @@ As hardware there shall be a SoC system like a Raspberry Pi. It may be any other
 ## Requirements
 - Small and light. A person shall be able to carry at least four of the C-Kits over a long walk.
 - robust, so it may be deployed from an airplane and falls back to earth with a little parachute.
-- CHEAP
+- It must be **CHEAP**
 - Easy to use. People being able to read, shall be able to make it work.
 - Resillient against environmental conditions, like rain, snow, strong sunlight, small particles (e.g. sand, dust, leaves)
 - Easy to fix on roofs, walls, trees, masts, ..
