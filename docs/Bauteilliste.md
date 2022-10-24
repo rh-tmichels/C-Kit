@@ -35,11 +35,12 @@ Die Priorität ist, daß zunächst der Akku zu mindestens 10% geladen sein muß,
 stromlos wird. Erst dann nimmt das C-Kit seine Arbeit wieder auf und stellt eine Netzwerk-Verbindung her.
 
 ### Photovoltaik
-Photovoltaik ist leicht, kostengünstig und sehr zuverlässig einsetzbar.
+Photovoltaik ist leicht, kostengünstig und sehr zuverlässig einsetzbar; wenn die Sonne scheint.
 
 ### Windrad
 Ein Windrad liefert auch dann Strom, wenn die Sonne untergegangen ist und bildet im Zweifelsfall eine zusätzliche Energiequelle zur Photovoltaik.
 Eine Bauanleitung befindet sich hier: LINK
+Es sollte ein horizontales Windrad sein, da es sehr effizient und effektiv ist.
 
 ### Akku / Powerbank
 Sollte mal weder die Sonne scheinen, noch der Wind ausreichend wehen, dann übernimmt die Powerbank oder die Akkus die Energieversorgung.
