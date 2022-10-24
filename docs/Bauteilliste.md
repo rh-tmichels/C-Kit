@@ -3,15 +3,23 @@
 ## Gehäuse
 Wo bekommt man das Gehäuse her oder wie baut man es?
 
+### Gehäuse - Anforderungen
+* Stabil und robust
+* Wasserfest
+* Leicht
+* Problemlose und weitreichende Verfügbarkeit
+* Signalfarbig
+* Günstig
+
 ## Computer
 1. Raspberry Zero W
-2. ...
+2. tbd.
 
 ## Software
 
 ### Betriebssystem
-Als Betriebssystem sollte ein Linux Derivat, passend für die HW-Plattform verwendet werden.
-Die Bluetooth Verbindungen sollten aus Energie-Spargründen immer abgeschaltet sein.
+Als Betriebssystem sollte ein Linux Derivat, passend für die verwendete HW-Plattform eingesetzt werden.
+Die Bluetooth Verbindungen sollten aus Energie-Spargründen per default abgeschaltet sein, aber bei Bedarf eingeschaltet werden können.
 
 ### Applikationen
 Damit eine höchstmögliche, schnelle UND energiesparende Verarbeitung möglich ist, sollte alles eine HTML Seite sein.
@@ -21,8 +29,7 @@ Da keine Daten gespeichert werden, zumindest nicht für lange, können hier geri
 Ohne autarke Energieversorgung ist ein C-Kit relativ schnell nutzlos.
 Die Energieversorgung muß so ausgelegt sein, daß sie selbststartend ist. 
 Sollte der Akku leer geworden sein, weil längere Zeit weder der Wind wehte noch die Sonne schien, so muß sich das C-Kit selbst ständig wieder
-in Betrieb nehmen, sobald wieder genügend Energie zur Verfügung steht, sprich entweder der Akku wieder aufgeladen ist oder die beiden Energieerzeuger wieder 
-arbeiten.
+in Betrieb nehmen, sobald wieder genügend Energie zur Verfügung steht, sprich entweder der Akku wieder aufgeladen ist oder die beiden Energieerzeuger wieder arbeiten.
 
 Die Priorität ist, daß zunächst der Akku zu mindestens 10% geladen sein muß, damit nicht bei der ersten Wolke oder kurzen Windstille das C-Kit wieder 
 stromlos wird. Erst dann nimmt das C-Kit seine Arbeit wieder auf und stellt eine Netzwerk-Verbindung her.
